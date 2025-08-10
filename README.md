@@ -49,14 +49,6 @@ haklufetch
 
 ## Display Examples
 
-| ![Salman](./Demo Assets/pic1.png) | ![shahruk](./Demo Assets/pic2.png) |
-| --------------------------------- | ---------------------------------- |
-| ![Akshay](./Demo Assets/pic3.png) | ![Urfi](./Demo Assets/pic4.png)    |
-
-## Contributing
-
-Contributions are always welcome! If you have ideas, bug reports, or want to submit code, please feel free to open an issue or a pull request.
-
-```
-
-```
+| ![pic1](./Demo Assets/pic1.png) | ![pic2](./Demo Assets/pic2.png) |
+| ------------------------------- | ------------------------------- |
+| ![pic3](./Demo Assets/pic3.png) | ![pic4](./Demo Assets/pic4.png) |
