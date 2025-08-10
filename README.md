@@ -49,6 +49,6 @@ haklufetch
 
 ## Display Examples
 
-| ![pic1](./DemoAssets/pic1.png) | ![pic2](./DemoAssets/pic2.pngg) |
-| ------------------------------ | ------------------------------- |
-| ![pic3](./DemoAssets/pic3.png) | ![pic4](./DemoAssets/pic4.png)  |
+| ![pic1](./DemoAssets/pic1.png) | ![pic2](./DemoAssets/pic2.png) |
+| ------------------------------ | ------------------------------ |
+| ![pic3](./DemoAssets/pic3.png) | ![pic4](./DemoAssets/pic4.png) |
