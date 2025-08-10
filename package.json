@@ -1,0 +1,16 @@
+{
+  "name": "haklufetch",
+  "version": "1.6.0",
+  "description": "A custom minimal system fetch CLI tool with ASCII image support using Chafa.",
+  "bin": {
+    "haklufetch": "./index.js"
+  },
+  "author": "Your Name",
+  "license": "MIT",
+  "type": "module",
+  "dependencies": {
+    "chalk": "^5.5.0",
+    "systeminformation": "^5.27.7",
+    "terminal-image": "^3.1.1"
+  }
+}
