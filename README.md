@@ -1,7 +1,7 @@
 <h1 align="center">haklufetch</h1>
 
 <p align="center">
-haklufetch is a neofetch-style brainrot CLI written in javascript
+haklufetch — like neofetch but with way more ✨brainrot✨. get your system info and lose braincells at the same time.
 </p>
 
 <div align="center">
