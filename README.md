@@ -5,7 +5,7 @@ haklufetch is a neofetch-style brainrot CLI written in javascript
 </p>
 
 <div align="center">
-  <img src="./Demo Assets/demo.gif" alt="gif" width="70%">
+  <img src="./DemoAssets/demo.gif" alt="gif" width="70%">
 </div>
 
 <br>
