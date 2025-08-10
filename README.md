@@ -45,17 +45,18 @@ npm link
 
 # Local run haklufetch
 haklufetch
-
-
+```
 
 ## Display Examples
 
-| ![Salman](./Demo Assets/pic1.png)       | ![shahruk](./Demo Assets/pic2.png)    |
-| -------------------------------- | ----------------------------------- |
-| ![Akshay](./Demo Assets/pic3.png) | ![Urfi](./Demo Assets/pic4.png) |
-
+| ![Salman](./Demo Assets/pic1.png) | ![shahruk](./Demo Assets/pic2.png) |
+| --------------------------------- | ---------------------------------- |
+| ![Akshay](./Demo Assets/pic3.png) | ![Urfi](./Demo Assets/pic4.png)    |
 
 ## Contributing
 
 Contributions are always welcome! If you have ideas, bug reports, or want to submit code, please feel free to open an issue or a pull request.
+
+```
+
 ```
